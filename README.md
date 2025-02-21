@@ -61,25 +61,17 @@ Validation Library: pyOpenSSL==23.3.0
 
 ## 📜 Version History
 
-v2.1 - Performance & Realism Enhancements
-
-🔄 Platform parameter renamed to os
-
-🔄 Browser parameter renamed to browsers (plural)
-
-🚀 Performance optimizations for large-scale UA generation
-
-🎯 More realistic User-Agent generation improvements
-
-Areas to Test:
-
-✅ All platform combinations
-
-✅ Mobile/Desktop transitions
-
-✅ Large-scale UA generation (10k+)
-
-✅ Different browser combinations
+### v2.1 - Performance & Realism Upgrade
+   - 🔄 Updated ua-generator to 2.0.1 (Major improvement in UA realism)
+   - 🚀 Performance Optimizations for faster generation
+   - 🛠 Parameter Changes:
+        platform → os
+        browser → browsers (supports multiple selections)
+    ✅ Enhanced Testing Scope:
+    -    All platform combinations
+    -    Mobile/Desktop transitions
+    -    Large-scale UA generation (10K+)
+    -    Various browser combinations
 
 ### v2.0 - Major UI Overhaul
 - ✨ **Visual Enhancements**
