@@ -62,8 +62,6 @@ Professional-grade tool for generating realistic user agents with precision cont
 
 ## Version History 📜
 
-# Version History
-
 ## v2.0 (2024.02.15) - UI Update
 - New modern interface design
 - [+] Automatic switching feature in platform selection
