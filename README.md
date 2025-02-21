@@ -28,10 +28,10 @@ AgentX is designed for developers, QA engineers, and cybersecurity professionals
 
 ## ⚙️ Technical Specifications
 ### Dependencies
-- **Core Engine**: `ua-generator==0.1.6`
-- **GUI Framework**: `tkinter==0.1.0`
-- **Compression Support**: `gzip==1.12`
-- **Validation Library**: `pyOpenSSL==23.3.0`
+Core Engine: ua-generator==2.0.1
+GUI Framework: tkinter==0.1.0
+Compression Support: gzip==1.12
+Validation Library: pyOpenSSL==23.3.0
 
 ### System Requirements
 - **OS**: Windows 10/11, macOS, Linux (64-bit)
@@ -57,6 +57,27 @@ AgentX is designed for developers, QA engineers, and cybersecurity professionals
 ---
 
 ## 📜 Version History
+
+v2.1 - Performance & Realism Enhancements
+
+🔄 Platform parameter renamed to os
+
+🔄 Browser parameter renamed to browsers (plural)
+
+🚀 Performance optimizations for large-scale UA generation
+
+🎯 More realistic User-Agent generation improvements
+
+Areas to Test:
+
+✅ All platform combinations
+
+✅ Mobile/Desktop transitions
+
+✅ Large-scale UA generation (10k+)
+
+✅ Different browser combinations
+
 ### v2.0 - Major UI Overhaul
 - ✨ **Visual Enhancements**
 - 🔄 **Separated Mobile & Desktop Selection**
