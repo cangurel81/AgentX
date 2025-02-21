@@ -13,37 +13,6 @@ Professional-grade tool for generating realistic user agents with precision cont
 
 ![Ekran görüntüsü 2025-02-21 041925](https://github.com/user-attachments/assets/8ef1669a-89f5-4105-845b-b5e55ebe1feb)
 
-## Key Features & Technical Capabilities 🔧
-
-### Core Functionality
-- **Multi-Device Architectures**  
-  Generate desktop (Windows/macOS/Linux) and mobile (iOS/Android) user agents with 1:1 platform accuracy
-
-- **Browser Ecosystem Coverage**  
-  Support for Chrome (v58+), Firefox (v55+), Safari (v12+), Edge (Chromium) with automatic version synchronization
-
-- **Enterprise-Grade Generation**  
-  Bulk production of 1-100,000 UAs with SHA-256 verified uniqueness and collision detection
-
-### Advanced Controls
-- **Precision Filtering System**
-  ```python
-  {
-    "device": ["desktop", "mobile"],
-    "platforms": ["windows", "macos", "linux", "ios", "android"],
-    "browsers": ["chrome", "firefox", "safari", "edge"],
-    "version_ranges": {
-      "chrome": (70, 120),
-      "firefox": (60, 115)
-    }
-  }
-  ```
-- **Smart Output Handling**  
-  Auto-save with conflict resolution, GZIP compression support, and real-time CSV/JSON formatting
-
-- **Performance Engine**  
-  Multi-threaded generation core delivering 850-1200 UAs/sec (dependent on hardware)
-
 ## Technical Specifications ⚙️
 
 ### Dependency Stack
