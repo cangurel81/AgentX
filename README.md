@@ -29,8 +29,11 @@ AgentX is designed for developers, QA engineers, and cybersecurity professionals
 ## ⚙️ Technical Specifications
 ### Dependencies
 Core Engine: ua-generator==2.0.1
+
 GUI Framework: tkinter==0.1.0
+
 Compression Support: gzip==1.12
+
 Validation Library: pyOpenSSL==23.3.0
 
 ### System Requirements
