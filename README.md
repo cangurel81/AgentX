@@ -46,14 +46,6 @@ Professional-grade tool for generating realistic user agents with precision cont
 
 ## Technical Specifications ⚙️
 
-### System Requirements
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| OS        | Windows 10 / Ubuntu 20.04 / macOS 12 | Windows 11 / Ubuntu 22.04 / macOS 14 |
-| CPU       | x64 Dual-Core 2.4GHz | x64 Quad-Core 3.6GHz+ |
-| RAM       | 4GB DDR4 | 8GB DDR4+ |
-| Storage   | 100MB free space | SSD recommended |
-
 ### Dependency Stack
 - **Core Framework**: `ua-generator==0.1.6`
 - **UI Engine**: `tkinter==0.1.0`
