@@ -62,11 +62,6 @@ Professional-grade tool for generating realistic user agents with precision cont
 
 ## Version History 📜
 
-### v2.0.1 (2024-03-15)
-- Added Kubernetes deployment templates
-- Enhanced version range validation
-- Fixed Linux packaging issues
-
 ### v2.0 (2024-02-20)
 - Implemented RBAC system
 - Added GZIP compression support
