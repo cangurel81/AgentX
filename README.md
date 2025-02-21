@@ -7,7 +7,7 @@ Professional-grade tool for generating realistic user agents with precision cont
 [![Code Style: PEP8](https://img.shields.io/badge/code%20style-PEP8-brightgreen)](https://peps.python.org/pep-0008/)
 
 **Professional Solution for Realistic User-Agent Generation with Granular Control**  
-*Empowering Developers, QA Engineers & Security Professionals Since 2023*
+*Empowering Developers, QA Engineers & Security Professionals*
 
 ![AgentX Interface Demo]
 
