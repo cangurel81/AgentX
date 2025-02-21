@@ -62,17 +62,21 @@ Professional-grade tool for generating realistic user agents with precision cont
 
 ## Version History 📜
 
-### v2.0 (2024-02-20)
-- Implemented RBAC system
-- Added GZIP compression support
-- Introduced audit logging framework
+# Version History
 
-### v1.5 (2023-12-10)
-- Docker container support
-- API endpoint integration
-- SOC2 compliance preparation
+## v2.0 (2024.02.15) - UI Update
+- New modern interface design
+- [+] Automatic switching feature in platform selection
+- [+] Error message improvements
+- [*] Icon optimization
 
-### v1.0 (2023-08-01)
-- Initial release with GUI
-- Desktop/mobile UA generation
-- Basic file export functionality
+## v1.5 (2023.11.20) - Platform Update
+- [+] Linux and iOS support added
+- [+] Automatic file name generation
+- [*] Thread management improvements
+
+## v1.0 (2023.08.10) - First Release
+- [+] Basic User-Agent generation feature
+- [+] Desktop/mobile selection
+- Windows/Android platform support
+- Chrome and Firefox browser options
